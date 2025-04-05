@@ -44,10 +44,14 @@ MIT
 
 ### 두 모델 비교
 
-모델 A :https://claude.site/artifacts/5fbc73d4-69c1-4fde-ad56-a044e662bf6f
-모델 B : https://chatgpt.com/canvas/shared/67f0bf81f91c81918094b8c76e050800
-모델 비교  : https://claude.site/artifacts/66ee1826-7bc7-49b0-8871-7899934bcee6
-우산 최적화 : https://claude.site/artifacts/1f6b0490-423e-44f1-a9ee-94eaa0abd05f
+모델 A :https://claude.site/artifacts/5fbc73d4-69c1-4fde-ad56-a044e662bf6f  
+
+모델 B : https://chatgpt.com/canvas/shared/67f0bf81f91c81918094b8c76e050800  
+
+모델 비교  : https://claude.site/artifacts/66ee1826-7bc7-49b0-8871-7899934bcee6  
+
+우산 최적화 : https://claude.site/artifacts/1f6b0490-423e-44f1-a9ee-94eaa0abd05f  
+
 
 ## 시뮬레이션 모델 간 주요 차이점
 
